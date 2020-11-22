@@ -1,204 +1,206 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="TRT 1" tvg-name="TRT 1" tvg-language="Turkish" tvg-logo="logos/trt1.png" group-title="TV",TRT 1
+#EXTINF:-1 tvg-id="Harley Quinn" tvg-name="Harley Quinn" tvg-language="Turkish"
+https://srv7.filmmodu.xyz/tt7658402/1080p.tr.m3u8
+#EXTINF:-1 tvg-id="TRT 1" tvg-name="TRT 1" tvg-language="Turkish" tvg-logo="https://raw.githubusercontent.com/Teknoist/PlayTv-Turkish/master/logos/trt1.png" group-title="TV",TRT 1
 http://tv-trt1.live.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-id="atv (TR)" tvg-name="atv (TR)" tvg-language="Turkish" tvg-logo="logos/atv.png" group-title="TV",ATV
+#EXTINF:-1 tvg-id="atv (TR)" tvg-name="atv (TR)" tvg-language="Turkish" tvg-logo="https://raw.githubusercontent.com/Teknoist/PlayTv-Turkish/master/logos/atv.png" group-title="TV",ATV
 http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$ATV_HD/index.m3u8?start=LIVE&end=END&device=HLS
-#EXTINF:-1 tvg-id="Show TV" tvg-name="Show TV" tvg-language="Turkish" tvg-logo="logos/show.png" group-title="TV",Show TV
+#EXTINF:-1 tvg-id="Show TV" tvg-name="Show TV" tvg-language="Turkish" tvg-logo="https://raw.githubusercontent.com/Teknoist/PlayTv-Turkish/master/logos/show.png" group-title="TV",Show TV
 http://canli.ensonhaber.com/tr/showtv/index.m3u8
-#EXTINF:-1 tvg-id="Star TV (TR)" tvg-name="Star TV (TR)" tvg-language="Turkish" tvg-logo="logos/star.png" group-title="TV",Star TV
+#EXTINF:-1 tvg-id="Star TV (TR)" tvg-name="Star TV (TR)" tvg-language="Turkish" tvg-logo="https://raw.githubusercontent.com/Teknoist/PlayTv-Turkish/master/logos/star.png" group-title="TV",Star TV
 http://lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="Kanal D" tvg-name="Kanal D" tvg-language="Turkish" tvg-logo="logos/kanald.png" group-title="TV",Kanal D
+#EXTINF:-1 tvg-id="Kanal D" tvg-name="Kanal D" tvg-language="Turkish" tvg-logo="https://raw.githubusercontent.com/Teknoist/PlayTv-Turkish/master/logos/kanald.png" group-title="TV",Kanal D
 http://soledge13.duhnet.tv//S2/HLS_LIVE/kanaldnp/track_4_1250/playlist.m3u8
-#EXTINF:-1 tvg-id="Fox TR" tvg-name="Fox TR" tvg-language="Turkish" tvg-logo="logos/fox.png" group-title="TV",FOX
+#EXTINF:-1 tvg-id="Fox TR" tvg-name="Fox TR" tvg-language="Turkish" tvg-logo="https://raw.githubusercontent.com/Teknoist/PlayTv-Turkish/master/logos/fox.png" group-title="TV",FOX
 http://mn-nl.mncdn.com/blutv_foxtv/smil:foxtv_sd2.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Kanal 7" tvg-name="Kanal 7" tvg-language="Turkish" tvg-logo="logos/kanal7.png" group-title="TV",Kanal 7
+#EXTINF:-1 tvg-id="Kanal 7" tvg-name="Kanal 7" tvg-language="Turkish" tvg-logo="https://raw.githubusercontent.com/Teknoist/PlayTv-Turkish/master/logos/kanal7.png" group-title="TV",Kanal 7
 http://live.kanal7.com/live/kanal7LiveDesktop/index.m3u8
-#EXTINF:-1 tvg-id="TV8" tvg-name="TV8" tvg-language="Turkish" tvg-logo="logos/tv8.png" group-title="TV",TV8
+#EXTINF:-1 tvg-id="TV8" tvg-name="TV8" tvg-language="Turkish" tvg-logo="https://raw.githubusercontent.com/Teknoist/PlayTv-Turkish/master/logos/tv8.png" group-title="TV",TV8
 http://mn-nl.mncdn.com/blutv_tv8/smil:tv8_sd2.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="TV8.5" tvg-name="TV8.5" tvg-language="Turkish" tvg-logo="logos/tv85.png" group-title="TV",TV8.5
+#EXTINF:-1 tvg-id="TV8.5" tvg-name="TV8.5" tvg-language="Turkish" tvg-logo="https://raw.githubusercontent.com/Teknoist/PlayTv-Turkish/master/logos/tv85.png" group-title="TV",TV8.5
 http://mn-nl.mncdn.com/blutv_tv8_5/smil:tv8_5_sd2.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Teve2" tvg-name="Teve2" tvg-language="Turkish" tvg-logo="logos/Teve2-logo.png" group-title="TV",Teve2
+#EXTINF:-1 tvg-id="Teve2" tvg-name="Teve2" tvg-language="Turkish" tvg-logo="https://raw.githubusercontent.com/Teknoist/PlayTv-Turkish/master/logos/Teve2-logo.png" group-title="TV",Teve2
 http://soledge13.duhnet.tv/S2/HLS_LIVE/teve2np/track_4_1000/playlist.m3u8
-#EXTINF:-1 tvg-id="Beyaz TV" tvg-name="Beyaz TV" tvg-language="Turkish" tvg-logo="logos/beyaztv.png" group-title="TV",Beyaz TV
+#EXTINF:-1 tvg-id="Beyaz TV" tvg-name="Beyaz TV" tvg-language="Turkish" tvg-logo="https://raw.githubusercontent.com/Teknoist/PlayTv-Turkish/master/logos/beyaztv.png" group-title="TV",Beyaz TV
 http://canli.ensonhaber.com/tr/beyaztv/index.m3u8
-#EXTINF:-1 tvg-id="A2 (TR)" tvg-name="A2 (TR)" tvg-language="Turkish" tvg-logo="logos/a2.png" group-title="TV",A2
+#EXTINF:-1 tvg-id="A2 (TR)" tvg-name="A2 (TR)" tvg-language="Turkish" tvg-logo="https://raw.githubusercontent.com/Teknoist/PlayTv-Turkish/master/logos/a2.png" group-title="TV",A2
 http://mn-nl.mncdn.com/blutv_a2/smil:a2_sd2.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="360 TV (TR)" tvg-name="360 TV (TR)" tvg-language="Turkish" tvg-logo="logos/360.png" group-title="TV",360 TV
+#EXTINF:-1 tvg-id="360 TV (TR)" tvg-name="360 TV (TR)" tvg-language="Turkish" tvg-logo="https://raw.githubusercontent.com/Teknoist/PlayTv-Turkish/master/logos/360.png" group-title="TV",360 TV
 http://canli.ensonhaber.com/tr/360tv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="logos/tlc.png" group-title="TV",TLC
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://raw.githubusercontent.com/Teknoist/PlayTv-Turkish/master/logos/tlc.png" group-title="TV",TLC
 http://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist_b2328000_sltur.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="logos/vizyon.png" group-title="TV",Vizyon TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://raw.githubusercontent.com/Teknoist/PlayTv-Turkish/master/logos/vizyon.png" group-title="TV",Vizyon TV
 http://vizyontv.yayin.com.tr/vizyontv/vizyontv/playlist.m3u8
-#EXTINF:-1 tvg-id="Uçankuş TV" tvg-name="Uçankuş TV" tvg-language="Turkish" tvg-logo="logos/ucankus-logo-640.jpg" group-title="TV",UçanKuş TV
+#EXTINF:-1 tvg-id="Uçankuş TV" tvg-name="Uçankuş TV" tvg-language="Turkish" tvg-logo="https://raw.githubusercontent.com/Teknoist/PlayTv-Turkish/master/logos/ucankus-logo-640.jpg" group-title="TV",UçanKuş TV
 http://ucankus-live.cdnnew.com/ucankus/ucankus.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="logos/IFE6LHH.jpg" group-title="TV",tivi TÜRK
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://raw.githubusercontent.com/Teknoist/PlayTv-Turkish/master/logos/IFE6LHH.jpg" group-title="TV",tivi TÜRK
 http://stream.tiviturk.de/live/tiviturk.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="logos/ceYfPXJ.jpg" group-title="TV",TV 4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://raw.githubusercontent.com/Teknoist/PlayTv-Turkish/master/logos/ceYfPXJ.jpg" group-title="TV",TV 4
 http://mn-nl.mncdn.com/karamel/karamel/chunklist.m3u8
-#EXTINF:-1 tvg-id="Kanal B" tvg-name="Kanal B" tvg-language="Turkish" tvg-logo="logos/kanalb_logo.png" group-title="TV",Kanal B
+#EXTINF:-1 tvg-id="Kanal B" tvg-name="Kanal B" tvg-language="Turkish" tvg-logo="https://raw.githubusercontent.com/Teknoist/PlayTv-Turkish/master/logos/kanalb_logo.png" group-title="TV",Kanal B
 http://212.174.58.161/hls-live/livepkgr/_definst_/liveevent/kanalb.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="logos/ertv-logo_1.png" group-title="TV",Er TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://raw.githubusercontent.com/Teknoist/PlayTv-Turkish/master/logos/ertv-logo_1.png" group-title="TV",Er TV
 http://mn-nl.mncdn.com/blutv_ertv/smil:ertv_sd2.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="logos/90235924-1103483683323522-6513342127999549440-n.jpg" group-title="TV",Kanal 19
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://raw.githubusercontent.com/Teknoist/PlayTv-Turkish/master/logos/90235924-1103483683323522-6513342127999549440-n.jpg" group-title="TV",Kanal 19
 http://5be5d840359c6.streamlock.net/kanal19tv/kanal19tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="logos/kanal33.jpg" group-title="TV",Kanal 33
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://raw.githubusercontent.com/Teknoist/PlayTv-Turkish/master/logos/kanal33.jpg" group-title="TV",Kanal 33
 http://59cba4d34b678.streamlock.net/canlitv/kanal33mersin/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="logos/kanal-34.png" group-title="TV",Kanal 34
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://raw.githubusercontent.com/Teknoist/PlayTv-Turkish/master/logos/kanal-34.png" group-title="TV",Kanal 34
 http://5be5d840359c6.streamlock.net/kanal34tv/kanal34tv/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="logos/kanal-38-logo-B5297F1907-seeklogo.com.png" group-title="TV",Kanal 38
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://raw.githubusercontent.com/Teknoist/PlayTv-Turkish/master/logos/kanal-38-logo-B5297F1907-seeklogo.com.png" group-title="TV",Kanal 38
 http://yayin3.canlitv.com:1935/live/kanal38/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="logos/ceYfPXJ.jpg" group-title="TV",TV 41
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://raw.githubusercontent.com/Teknoist/PlayTv-Turkish/master/logos/ceYfPXJ.jpg" group-title="TV",TV 41
 http://stream.taksimbilisim.com:1935/tv41/bant1/TV41.m3u8
-#EXTINF:-1 tvg-id="Diyanet TV" tvg-name="Diyanet TV" tvg-language="Turkish" tvg-logo="logos/diyanet-tv.jpg" group-title="TV",Diyanet TV
+#EXTINF:-1 tvg-id="Diyanet TV" tvg-name="Diyanet TV" tvg-language="Turkish" tvg-logo="https://raw.githubusercontent.com/Teknoist/PlayTv-Turkish/master/logos/diyanet-tv.jpg" group-title="TV",Diyanet TV
 http://mn-nl.mncdn.com/blutv_diyanet/smil:diyanet_sd2.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="logos/i3ua14I.jpg" group-title="TV",ON 4 TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://raw.githubusercontent.com/Teknoist/PlayTv-Turkish/master/logos/i3ua14I.jpg" group-title="TV",ON 4 TV
 http://59cba4d34b678.streamlock.net/live2/on4.stream/chunklist_w1940317128.m3u8
-#EXTINF:-1 tvg-id="TRT AVAZ" tvg-name="TRT AVAZ" tvg-language="Turkish" tvg-logo="logos/05zMtgQ.png" group-title="TV",TRT Avaz
+#EXTINF:-1 tvg-id="TRT AVAZ" tvg-name="TRT AVAZ" tvg-language="Turkish" tvg-logo="https://raw.githubusercontent.com/Teknoist/PlayTv-Turkish/master/logos/05zMtgQ.png" group-title="TV",TRT Avaz
 http://tv-trtavaz.live.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-id="TRT TÜRK" tvg-name="TRT TÜRK" tvg-language="Turkish" tvg-logo="logos/R8SJH2m.png" group-title="TV",TRT Türk
+#EXTINF:-1 tvg-id="TRT TÜRK" tvg-name="TRT TÜRK" tvg-language="Turkish" tvg-logo="https://raw.githubusercontent.com/Teknoist/PlayTv-Turkish/master/logos/R8SJH2m.png" group-title="TV",TRT Türk
 http://tv-trtturk.live.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-id="TRT World" tvg-name="TRT World" tvg-language="English" tvg-logo="logos/mjTjJ1N.png" group-title="TV",TRT World
+#EXTINF:-1 tvg-id="TRT World" tvg-name="TRT World" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/Teknoist/PlayTv-Turkish/master/logos/mjTjJ1N.png" group-title="TV",TRT World
 http://tv-trtworld.live.trt.com.tr/master_1080.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="logos/afyonturk.png" group-title="TV",Afyon Türk TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://raw.githubusercontent.com/Teknoist/PlayTv-Turkish/master/logos/afyonturk.png" group-title="TV",Afyon Türk TV
 http://5be5d840359c6.streamlock.net/afyonturktv/afyonturktv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="logos/being.png" group-title="Film",MOVIE SMART HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://raw.githubusercontent.com/Teknoist/PlayTv-Turkish/master/logos/being.png" group-title="Film",MOVIE SMART HD
 http://vision-tv.nl:8080/MOVIESMARTTURKHD_42Loc/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="logos/being.png" group-title="Film",MOVIE SMART CLASSIC HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://raw.githubusercontent.com/Teknoist/PlayTv-Turkish/master/logos/being.png" group-title="Film",MOVIE SMART CLASSIC HD
 http://vision-tv.nl:8080/MOVIESMARTCLASSICHD_42Loc/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="logos/being.png" group-title="Film",MOVIE SMART ACTION HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://raw.githubusercontent.com/Teknoist/PlayTv-Turkish/master/logos/being.png" group-title="Film",MOVIE SMART ACTION HD
 http://vision-tv.nl:8080/MOVIESMARTACTIONHD_42Loc/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="logos/being.png" group-title="Film",MOVIE SMART ACTION 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://raw.githubusercontent.com/Teknoist/PlayTv-Turkish/master/logos/being.png" group-title="Film",MOVIE SMART ACTION 2 HD
 http://vision-tv.nl:8080/beINMOVIESACTION2HD_42Loc/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="logos/being.png" group-title="Film",MOVIE SMART PREMIUM HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://raw.githubusercontent.com/Teknoist/PlayTv-Turkish/master/logos/being.png" group-title="Film",MOVIE SMART PREMIUM HD
 http://vision-tv.nl:8080/beINMOVIESPREMIEREHD_42Loc/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="logos/being.png" group-title="Film",MOVIE SMART PREMIUM 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://raw.githubusercontent.com/Teknoist/PlayTv-Turkish/master/logos/being.png" group-title="Film",MOVIE SMART PREMIUM 2 HD
 http://vision-tv.nl:8080/MOVIESMARTPREMIUM2HD_42Loc/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="logos/being.png" group-title="Film",beIN MOVIES TURK HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://raw.githubusercontent.com/Teknoist/PlayTv-Turkish/master/logos/being.png" group-title="Film",beIN MOVIES TURK HD
 http://vision-tv.nl:8080/beINMOVIESTURKHD_42Loc/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="logos/being.png" group-title="Film",beIN MOVIES PREMIERE HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://raw.githubusercontent.com/Teknoist/PlayTv-Turkish/master/logos/being.png" group-title="Film",beIN MOVIES PREMIERE HD
 http://vision-tv.nl:8080/beINMOVIESPREMIEREHD_42Loc/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="logos/being.png" group-title="Film",beIN MOVIES PREMIERE 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://raw.githubusercontent.com/Teknoist/PlayTv-Turkish/master/logos/being.png" group-title="Film",beIN MOVIES PREMIERE 2 HD
 http://vision-tv.nl:8080/beINMOVIESPREMIERE2HD_42Loc/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="logos/being.png" group-title="Film",beIN MOVIES STARS HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://raw.githubusercontent.com/Teknoist/PlayTv-Turkish/master/logos/being.png" group-title="Film",beIN MOVIES STARS HD
 http://vision-tv.nl:8080/beINMOVIESSTARSHD_42Loc/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="logos/being.png" group-title="Film",beIN SERIES COMEDY HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://raw.githubusercontent.com/Teknoist/PlayTv-Turkish/master/logos/being.png" group-title="Film",beIN SERIES COMEDY HD
 http://vision-tv.nl:8080/beINSERIESCOMEDYHD_42Loc/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="logos/being.png" group-title="Film",beIN SERIES DRAMA HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://raw.githubusercontent.com/Teknoist/PlayTv-Turkish/master/logos/being.png" group-title="Film",beIN SERIES DRAMA HD
 http://vision-tv.nl:8080/beINSERIESDRAMAHD_42Loc/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="logos/being.png" group-title="Film",beIN SERIES SCI-FI HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://raw.githubusercontent.com/Teknoist/PlayTv-Turkish/master/logos/being.png" group-title="Film",beIN SERIES SCI-FI HD
 http://vision-tv.nl:8080/beINSERIESSCI-FIHD_42Loc/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="logos/being.png" group-title="Film",beIN SERIES VICE HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://raw.githubusercontent.com/Teknoist/PlayTv-Turkish/master/logos/being.png" group-title="Film",beIN SERIES VICE HD
 http://vision-tv.nl:8080/beINSERIESVICEHD_42Loc/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="logos/cine5.png" group-title="Film",Cine5 TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://raw.githubusercontent.com/Teknoist/PlayTv-Turkish/master/logos/cine5.png" group-title="Film",Cine5 TV
 http://cdn-cine5.yayin.com.tr/cine5/cine5/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="logos/blutvaksiyon.png" group-title="Film",BLUTV Aksiyon
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://raw.githubusercontent.com/Teknoist/PlayTv-Turkish/master/logos/blutvaksiyon.png" group-title="Film",BLUTV Aksiyon
 http://d1vftv9up76vki.cloudfront.net/out/v1/6f27e3bde7274af6b06befa08cd839d7/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="logos/blutvkomedi.png" group-title="Film",BLUTV Komedi
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://raw.githubusercontent.com/Teknoist/PlayTv-Turkish/master/logos/blutvkomedi.png" group-title="Film",BLUTV Komedi
 http://d20aqhpvpegrs2.cloudfront.net/out/v1/d9da7879327241d3831f39b61016a353/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="logos/criturk.png" group-title="Film",CRI Türk Dizi
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://raw.githubusercontent.com/Teknoist/PlayTv-Turkish/master/logos/criturk.png" group-title="Film",CRI Türk Dizi
 http://cri.aa.net.tr:1935/dizi/dizi/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="logos/cn.png" group-title="cocuk",Cartoon Network
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://raw.githubusercontent.com/Teknoist/PlayTv-Turkish/master/logos/cn.png" group-title="cocuk",Cartoon Network
 http://streams.livetv.az/turk/cartoon/playlist.m3u8
-#EXTINF:-1 tvg-id="TRT Çocuk" tvg-name="TRT Çocuk" tvg-language="Turkish" tvg-logo="logos/trtcocuk.png" group-title="cocuk",TRT Çocuk
+#EXTINF:-1 tvg-id="TRT Çocuk" tvg-name="TRT Çocuk" tvg-language="Turkish" tvg-logo="https://raw.githubusercontent.com/Teknoist/PlayTv-Turkish/master/logos/trtcocuk.png" group-title="cocuk",TRT Çocuk
 http://tv-trtcocuk.live.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="logos/dc.png" group-title="cocuk",Disney Channel
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://raw.githubusercontent.com/Teknoist/PlayTv-Turkish/master/logos/dc.png" group-title="cocuk",Disney Channel
 http://streams.livetv.az/turk/disney/playlist.m3u8
-#EXTINF:-1 tvg-id="Minika Go" tvg-name="Minika Go" tvg-language="Turkish" tvg-logo="logos/1200px-MinikaGO_Logo.png" group-title="cocuk",Minika Go
+#EXTINF:-1 tvg-id="Minika Go" tvg-name="Minika Go" tvg-language="Turkish" tvg-logo="https://raw.githubusercontent.com/Teknoist/PlayTv-Turkish/master/logos/1200px-MinikaGO_Logo.png" group-title="cocuk",Minika Go
 http://94.46.195.170:9000/minikago/live.m3u8
-#EXTINF:-1 tvg-id="Minika Çocuk" tvg-name="Minika Çocuk" tvg-language="Turkish" tvg-logo="logos/224px-MinikaCOCUK.png" group-title="cocuk",Minika Çocuk
+#EXTINF:-1 tvg-id="Minika Çocuk" tvg-name="Minika Çocuk" tvg-language="Turkish" tvg-logo="https://raw.githubusercontent.com/Teknoist/PlayTv-Turkish/master/logos/224px-MinikaCOCUK.png" group-title="cocuk",Minika Çocuk
 http://94.46.195.170:9000/minikacocuk/live.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="logos/beinsportshaber.png" group-title="Spor",Bein Sport Haber
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://raw.githubusercontent.com/Teknoist/PlayTv-Turkish/master/logos/beinsportshaber.png" group-title="Spor",Bein Sport Haber
 http://94.46.195.170:9000/bein-sports-haber/live.m3u8
-#EXTINF:-1 tvg-id="a Spor" tvg-name="a Spor" tvg-language="Turkish" tvg-logo="logos/aspor.png" group-title="Spor",a Spor
+#EXTINF:-1 tvg-id="a Spor" tvg-name="a Spor" tvg-language="Turkish" tvg-logo="https://raw.githubusercontent.com/Teknoist/PlayTv-Turkish/master/logos/aspor.png" group-title="Spor",a Spor
 http://mn-nl.mncdn.com/blutv_aspor/smil:aspor_sd2.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="logos/sportstv.png" group-title="Spor",Sports TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://raw.githubusercontent.com/Teknoist/PlayTv-Turkish/master/logos/sportstv.png" group-title="Spor",Sports TV
 http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 
 
-#EXTINF:-1 tvg-id="TVNET" tvg-name="TVNET" tvg-language="Turkish" tvg-logo="logos/tvnet.jpg" group-title="Haber",TVNET
+#EXTINF:-1 tvg-id="TVNET" tvg-name="TVNET" tvg-language="Turkish" tvg-logo="https://raw.githubusercontent.com/Teknoist/PlayTv-Turkish/master/logos/tvnet.jpg" group-title="Haber",TVNET
 http://canli.ensonhaber.com/tr/tvnet/index.m3u8
-#EXTINF:-1 tvg-id="NTV" tvg-name="NTV" tvg-language="Turkish" tvg-logo="logos/ntv.png" group-title="Haber",NTV 
+#EXTINF:-1 tvg-id="NTV" tvg-name="NTV" tvg-language="Turkish" tvg-logo="https://raw.githubusercontent.com/Teknoist/PlayTv-Turkish/master/logos/ntv.png" group-title="Haber",NTV 
 http://nt4p9nef.rocketcdn.com/ntvhd.stream_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="TRT Haber" tvg-name="TRT Haber" tvg-language="Turkish" tvg-logo="logos/trthaber.jpg" group-title="Haber",TRT Haber
+#EXTINF:-1 tvg-id="TRT Haber" tvg-name="TRT Haber" tvg-language="Turkish" tvg-logo="https://raw.githubusercontent.com/Teknoist/PlayTv-Turkish/master/logos/trthaber.jpg" group-title="Haber",TRT Haber
 http://tv-trthaber.live.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-id="TGRT Haber" tvg-name="TGRT Haber" tvg-language="Turkish" tvg-logo="logos/tgrthaber.png" group-title="Haber",TGRT Haber
+#EXTINF:-1 tvg-id="TGRT Haber" tvg-name="TGRT Haber" tvg-language="Turkish" tvg-logo="https://raw.githubusercontent.com/Teknoist/PlayTv-Turkish/master/logos/tgrthaber.png" group-title="Haber",TGRT Haber
 http://tgrt.streamencoding.com/tgrt_haber/yuksek.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="logos/haberglobal.png" group-title="Haber",HABERGLOBAL
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://raw.githubusercontent.com/Teknoist/PlayTv-Turkish/master/logos/haberglobal.png" group-title="Haber",HABERGLOBAL
 http://canli.ensonhaber.com/tr/haberglobal/index.m3u8
-#EXTINF:-1 tvg-id="HABERTURK" tvg-name="HABERTURK" tvg-language="Turkish" tvg-logo="logos/haberturk.png" group-title="Haber",HABERTURK
+#EXTINF:-1 tvg-id="HABERTURK" tvg-name="HABERTURK" tvg-language="Turkish" tvg-logo="https://raw.githubusercontent.com/Teknoist/PlayTv-Turkish/master/logos/haberturk.png" group-title="Haber",HABERTURK
 http://canli.ensonhaber.com/tr/haberturk/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="logos/bloomberg.jpg" group-title="Haber",Bloomberg HT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://raw.githubusercontent.com/Teknoist/PlayTv-Turkish/master/logos/bloomberg.jpg" group-title="Haber",Bloomberg HT
 http://mn-nl.mncdn.com/blutv_bloomberght/smil:bloomberght_sd2.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="24 TV" tvg-name="24 TV" tvg-language="Turkish" tvg-logo="logos/24.png" group-title="Haber",24
+#EXTINF:-1 tvg-id="24 TV" tvg-name="24 TV" tvg-language="Turkish" tvg-logo="https://raw.githubusercontent.com/Teknoist/PlayTv-Turkish/master/logos/24.png" group-title="Haber",24
 https://canli.ensonhaber.com/tr/24tv/index.m3u8
-#EXTINF:-1 tvg-id="CNN TÜRK" tvg-name="CNN TÜRK" tvg-language="Turkish" tvg-logo="logos/cnnturk.png" group-title="Haber",CNN Türk
+#EXTINF:-1 tvg-id="CNN TÜRK" tvg-name="CNN TÜRK" tvg-language="Turkish" tvg-logo="https://raw.githubusercontent.com/Teknoist/PlayTv-Turkish/master/logos/cnnturk.png" group-title="Haber",CNN Türk
 http://tv.kuzeytv.com/hls/cnnturk.m3u8
-#EXTINF:-1 tvg-id="Ülke TV" tvg-name="Ülke TV" tvg-language="Turkish" tvg-logo="logos/29112014172109.jpg" group-title="Haber",Ülke TV
+#EXTINF:-1 tvg-id="Ülke TV" tvg-name="Ülke TV" tvg-language="Turkish" tvg-logo="https://raw.githubusercontent.com/Teknoist/PlayTv-Turkish/master/logos/29112014172109.jpg" group-title="Haber",Ülke TV
 http://tv.kuzeytv.com/hls/ulke.m3u8
-#EXTINF:-1 tvg-id="Kon TV" tvg-name="Kontv" tvg-language="Turkish" tvg-logo="logos/D8uqiZD.jpg" group-title="Haber",Kon TV
+#EXTINF:-1 tvg-id="Kon TV" tvg-name="Kontv" tvg-language="Turkish" tvg-logo="https://raw.githubusercontent.com/Teknoist/PlayTv-Turkish/master/logos/D8uqiZD.jpg" group-title="Haber",Kon TV
 http://59cba4d34b678.streamlock.net/live/kontv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="logos/HalkTVLogo.jpg" group-title="",Halk TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://raw.githubusercontent.com/Teknoist/PlayTv-Turkish/master/logos/HalkTVLogo.jpg" group-title="",Halk TV
 https://tv.kuzeytv.com/hls/halk.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="logos/KuDeTzL.png" group-title="Haber",TBMM TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://raw.githubusercontent.com/Teknoist/PlayTv-Turkish/master/logos/KuDeTzL.png" group-title="Haber",TBMM TV
 http://mecliscanlitv-lh.akamaihd.net/i/MECLISTV_1@127503/master.m3u8
-#EXTINF:-1 tvg-id="a Haber" tvg-name="a Haber" tvg-language="Turkish" tvg-logo="logos/ahbr.png" group-title="Haber",a Haber
+#EXTINF:-1 tvg-id="a Haber" tvg-name="a Haber" tvg-language="Turkish" tvg-logo="https://raw.githubusercontent.com/Teknoist/PlayTv-Turkish/master/logos/ahbr.png" group-title="Haber",a Haber
 http://85.132.53.55/turk/ahaber_stream_sd/playlist.m3u8
-#EXTINF:-1 tvg-id="a Para" tvg-name="a Para" tvg-language="Turkish" tvg-logo="logos/apara.png" group-title="Haber",a Para
+#EXTINF:-1 tvg-id="a Para" tvg-name="a Para" tvg-language="Turkish" tvg-logo="https://raw.githubusercontent.com/Teknoist/PlayTv-Turkish/master/logos/apara.png" group-title="Haber",a Para
 http://mn-nl.mncdn.com/blutv_apara/smil:apara_sd2.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="logos/yok.jpg" group-title="Haber",Finans Turk TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://raw.githubusercontent.com/Teknoist/PlayTv-Turkish/master/logos/yok.jpg" group-title="Haber",Finans Turk TV
 http://live.arkumedia.com:1935/finansturktv/finansturktv/playlist.m3u8
-#EXTINF:-1 tvg-id="TGRT Haber TR" tvg-name="TGRT Haber TR" tvg-language="Turkish" tvg-logo="logos/K8Vh6HD.png" group-title="Haber",TGRT Haber
+#EXTINF:-1 tvg-id="TGRT Haber TR" tvg-name="TGRT Haber TR" tvg-language="Turkish" tvg-logo="https://raw.githubusercontent.com/Teknoist/PlayTv-Turkish/master/logos/K8Vh6HD.png" group-title="Haber",TGRT Haber
 http://cdn1.streamencoding.com:1935/tgrt_haber/tgrt3/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="logos/nr1.png" group-title="Muzik",NR1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://raw.githubusercontent.com/Teknoist/PlayTv-Turkish/master/logos/nr1.png" group-title="Muzik",NR1
 http://mn-nl.mncdn.com/blutv_nr1tv/smil:nr1tv_sd2.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="logos/nr1turk.png" group-title="Muzik",NR1 Türk
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://raw.githubusercontent.com/Teknoist/PlayTv-Turkish/master/logos/nr1turk.png" group-title="Muzik",NR1 Türk
 http://mn-nl.mncdn.com/blutv_nr1turktv/nr1turktv_sd2.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="logos/nr1damar.png" group-title="Muzik",NR1 Damar
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://raw.githubusercontent.com/Teknoist/PlayTv-Turkish/master/logos/nr1damar.png" group-title="Muzik",NR1 Damar
 http://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e19877b340.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="logos/nr1ask.png" group-title="Muzik",NR1 Aşk
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://raw.githubusercontent.com/Teknoist/PlayTv-Turkish/master/logos/nr1ask.png" group-title="Muzik",NR1 Aşk
 http://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e18f9c54e6.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="logos/nr1dance.png" group-title="Muzik",NR1 Dance
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://raw.githubusercontent.com/Teknoist/PlayTv-Turkish/master/logos/nr1dance.png" group-title="Muzik",NR1 Dance
 http://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e2aa89e721.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Dream TV" tvg-name="Dream TV" tvg-language="Turkish" tvg-logo="logos/0MXy3W0.png" group-title="Muzik",Dream TV
+#EXTINF:-1 tvg-id="Dream TV" tvg-name="Dream TV" tvg-language="Turkish" tvg-logo="https://raw.githubusercontent.com/Teknoist/PlayTv-Turkish/master/logos/0MXy3W0.png" group-title="Muzik",Dream TV
 http://mn-nl.mncdn.com/blutv_dream/smil:dream_sd2.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Power Türk TV" tvg-name="Power Türk TV" tvg-language="Turkish" tvg-logo="logos/N3keKip.png" group-title="Muzik",Power Türk TV
+#EXTINF:-1 tvg-id="Power Türk TV" tvg-name="Power Türk TV" tvg-language="Turkish" tvg-logo="https://raw.githubusercontent.com/Teknoist/PlayTv-Turkish/master/logos/N3keKip.png" group-title="Muzik",Power Türk TV
 http://mn-nl.mncdn.com/blutv_powerturk/smil:powerturk_sd2.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="KRAL POP TV" tvg-name="KRAL POP TV" tvg-language="Turkish" tvg-logo="logos/7H8WKei.png" group-title="Muzik",Kral Pop
+#EXTINF:-1 tvg-id="KRAL POP TV" tvg-name="KRAL POP TV" tvg-language="Turkish" tvg-logo="https://raw.githubusercontent.com/Teknoist/PlayTv-Turkish/master/logos/7H8WKei.png" group-title="Muzik",Kral Pop
 http://0ajuu84p.rocketcdn.com/kralpop_720/playlist.m3u8
-#EXTINF:-1 tvg-id="Kral TV" tvg-name="Kral TV" tvg-language="Turkish" tvg-logo="logos/kral.png" group-title="Muzik",Kral TV
+#EXTINF:-1 tvg-id="Kral TV" tvg-name="Kral TV" tvg-language="Turkish" tvg-logo="https://raw.githubusercontent.com/Teknoist/PlayTv-Turkish/master/logos/kral.png" group-title="Muzik",Kral TV
 http://mid5dg6m.rocketcdn.com/kraltv_720/playlist.m3u8
-#EXTINF:-1 tvg-id="TRT Muzik" tvg-name="TRT Muzik" tvg-language="Turkish" tvg-logo="logos/Bi8eMX9.jpg" group-title="Muzik",TRT Muzik
+#EXTINF:-1 tvg-id="TRT Muzik" tvg-name="TRT Muzik" tvg-language="Turkish" tvg-logo="https://raw.githubusercontent.com/Teknoist/PlayTv-Turkish/master/logos/Bi8eMX9.jpg" group-title="Muzik",TRT Muzik
 http://tv-trtmuzik.live.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="logos/LcUYuJ5.png" group-title="Muzik",Med Muzîk
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://raw.githubusercontent.com/Teknoist/PlayTv-Turkish/master/logos/LcUYuJ5.png" group-title="Muzik",Med Muzîk
 http://137.74.205.201/live3/mm-3mbps.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="logos/yaban.png" group-title="Belgesel",YABAN TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://raw.githubusercontent.com/Teknoist/PlayTv-Turkish/master/logos/yaban.png" group-title="Belgesel",YABAN TV
 http://59cba4d34b678.streamlock.net/live1/yabantv/playlist.m3u8
-#EXTINF:-1 tvg-id="TRT Belgesel" tvg-name="TRT Belgesel" tvg-language="Turkish" tvg-logo="logos/TRT_Belgesel_logosu.png" group-title="Belgesel",TRT Belgesel 
+#EXTINF:-1 tvg-id="TRT Belgesel" tvg-name="TRT Belgesel" tvg-language="Turkish" tvg-logo="https://raw.githubusercontent.com/Teknoist/PlayTv-Turkish/master/logos/TRT_Belgesel_logosu.png" group-title="Belgesel",TRT Belgesel 
 http://mn-nl.mncdn.com/blutv_trtbelgesel/smil:trtbelgesel_sd2.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="logos/Tj2G5lV.png" group-title="Belgesel",TGRT Belgesel
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://raw.githubusercontent.com/Teknoist/PlayTv-Turkish/master/logos/Tj2G5lV.png" group-title="Belgesel",TGRT Belgesel
 http://cdn1.streamencoding.com:1935/tgrt_belgesel/tgrt3/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="logos/criturk.png" group-title="Belgesel",CRI Türk Belgesel
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://raw.githubusercontent.com/Teknoist/PlayTv-Turkish/master/logos/criturk.png" group-title="Belgesel",CRI Türk Belgesel
 http://cri.aa.net.tr:1935/belgesel/belgesel/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="logos/MwuqE6S.jpg" group-title="Belgesel",DMAX
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://raw.githubusercontent.com/Teknoist/PlayTv-Turkish/master/logos/MwuqE6S.jpg" group-title="Belgesel",DMAX
 https://jviqfbc2.rocketcdn.com/dmax.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="logos/qti5aea.png" group-title="",Beşiktaş Web TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://raw.githubusercontent.com/Teknoist/PlayTv-Turkish/master/logos/qti5aea.png" group-title="",Beşiktaş Web TV
 https://s01.vpis.io/besiktas/besiktas.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="logos/xyubJha.png" group-title="",Doğuş TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://raw.githubusercontent.com/Teknoist/PlayTv-Turkish/master/logos/xyubJha.png" group-title="",Doğuş TV
 https://s01.vpis.io/dogustv/dogustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="logos/f460YQg.png" group-title="",Natural TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://raw.githubusercontent.com/Teknoist/PlayTv-Turkish/master/logos/f460YQg.png" group-title="",Natural TV
 http://broadcasttr.com:1935/naturaltv/bant1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="logos/f460YQg.png" group-title="",Natural TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://raw.githubusercontent.com/Teknoist/PlayTv-Turkish/master/logos/f460YQg.png" group-title="",Natural TV
 https://broadcasttr.com:446/naturaltv/bant1/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="logos/kafaradyo.jpg" group-title="",Radyo
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://raw.githubusercontent.com/Teknoist/PlayTv-Turkish/master/logos/kafaradyo.jpg" group-title="",Radyo
 https://moondigitaledge2.radyotvonline.net/kafaradyo/playlist.m3u8
